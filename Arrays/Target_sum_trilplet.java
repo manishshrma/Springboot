@@ -1,5 +1,6 @@
 package manish;
 
+import java.sql.SQLOutput;
 import java.util.Arrays;
 import java.util.Scanner;
 
@@ -42,8 +43,9 @@ public class Target_sum_trilplet {
 			}
 			i++;
 			
-			
+
 		}
-	}	
+		System.out.println("hello world editing tto existing");
+	}
 }
 
